@@ -1,0 +1,16 @@
+/Users/drew.conly/Training/WordCounter/TestLibrary/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/drew.conly/Training/WordCounter/TestLibrary/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/Users/drew.conly/Training/WordCounter/TestLibrary/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/Users/drew.conly/Training/WordCounter/TestLibrary/bin/Debug/netcoreapp2.0/TestLibrary.deps.json
+/Users/drew.conly/Training/WordCounter/TestLibrary/bin/Debug/netcoreapp2.0/TestLibrary.runtimeconfig.json
+/Users/drew.conly/Training/WordCounter/TestLibrary/bin/Debug/netcoreapp2.0/TestLibrary.runtimeconfig.dev.json
+/Users/drew.conly/Training/WordCounter/TestLibrary/bin/Debug/netcoreapp2.0/TestLibrary.dll
+/Users/drew.conly/Training/WordCounter/TestLibrary/bin/Debug/netcoreapp2.0/TestLibrary.pdb
+/Users/drew.conly/Training/WordCounter/TestLibrary/bin/Debug/netcoreapp2.0/TextUtils.dll
+/Users/drew.conly/Training/WordCounter/TestLibrary/bin/Debug/netcoreapp2.0/TextUtils.pdb
+/Users/drew.conly/Training/WordCounter/TestLibrary/obj/Debug/netcoreapp2.0/TestLibrary.csprojResolveAssemblyReference.cache
+/Users/drew.conly/Training/WordCounter/TestLibrary/obj/Debug/netcoreapp2.0/TestLibrary.csproj.CoreCompileInputs.cache
+/Users/drew.conly/Training/WordCounter/TestLibrary/obj/Debug/netcoreapp2.0/TestLibrary.AssemblyInfoInputs.cache
+/Users/drew.conly/Training/WordCounter/TestLibrary/obj/Debug/netcoreapp2.0/TestLibrary.AssemblyInfo.cs
+/Users/drew.conly/Training/WordCounter/TestLibrary/obj/Debug/netcoreapp2.0/TestLibrary.dll
+/Users/drew.conly/Training/WordCounter/TestLibrary/obj/Debug/netcoreapp2.0/TestLibrary.pdb

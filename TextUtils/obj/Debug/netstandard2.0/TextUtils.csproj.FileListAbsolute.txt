@@ -1,0 +1,9 @@
+/Users/drew.conly/Training/WordCounter/TextUtils/bin/Debug/netstandard2.0/TextUtils.deps.json
+/Users/drew.conly/Training/WordCounter/TextUtils/bin/Debug/netstandard2.0/TextUtils.dll
+/Users/drew.conly/Training/WordCounter/TextUtils/bin/Debug/netstandard2.0/TextUtils.pdb
+/Users/drew.conly/Training/WordCounter/TextUtils/obj/Debug/netstandard2.0/TextUtils.csprojResolveAssemblyReference.cache
+/Users/drew.conly/Training/WordCounter/TextUtils/obj/Debug/netstandard2.0/TextUtils.csproj.CoreCompileInputs.cache
+/Users/drew.conly/Training/WordCounter/TextUtils/obj/Debug/netstandard2.0/TextUtils.AssemblyInfoInputs.cache
+/Users/drew.conly/Training/WordCounter/TextUtils/obj/Debug/netstandard2.0/TextUtils.AssemblyInfo.cs
+/Users/drew.conly/Training/WordCounter/TextUtils/obj/Debug/netstandard2.0/TextUtils.dll
+/Users/drew.conly/Training/WordCounter/TextUtils/obj/Debug/netstandard2.0/TextUtils.pdb

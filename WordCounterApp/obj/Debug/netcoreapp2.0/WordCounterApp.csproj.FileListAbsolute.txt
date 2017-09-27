@@ -1,0 +1,12 @@
+/Users/drew.conly/Training/WordCounter/WordCounterApp/bin/Debug/netcoreapp2.0/WordCounterApp.deps.json
+/Users/drew.conly/Training/WordCounter/WordCounterApp/bin/Debug/netcoreapp2.0/WordCounterApp.runtimeconfig.json
+/Users/drew.conly/Training/WordCounter/WordCounterApp/bin/Debug/netcoreapp2.0/WordCounterApp.runtimeconfig.dev.json
+/Users/drew.conly/Training/WordCounter/WordCounterApp/bin/Debug/netcoreapp2.0/WordCounterApp.dll
+/Users/drew.conly/Training/WordCounter/WordCounterApp/bin/Debug/netcoreapp2.0/WordCounterApp.pdb
+/Users/drew.conly/Training/WordCounter/WordCounterApp/bin/Debug/netcoreapp2.0/TextUtils.dll
+/Users/drew.conly/Training/WordCounter/WordCounterApp/bin/Debug/netcoreapp2.0/TextUtils.pdb
+/Users/drew.conly/Training/WordCounter/WordCounterApp/obj/Debug/netcoreapp2.0/WordCounterApp.csproj.CoreCompileInputs.cache
+/Users/drew.conly/Training/WordCounter/WordCounterApp/obj/Debug/netcoreapp2.0/WordCounterApp.AssemblyInfoInputs.cache
+/Users/drew.conly/Training/WordCounter/WordCounterApp/obj/Debug/netcoreapp2.0/WordCounterApp.AssemblyInfo.cs
+/Users/drew.conly/Training/WordCounter/WordCounterApp/obj/Debug/netcoreapp2.0/WordCounterApp.dll
+/Users/drew.conly/Training/WordCounter/WordCounterApp/obj/Debug/netcoreapp2.0/WordCounterApp.pdb
